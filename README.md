@@ -1,3 +1,3 @@
-## Full Stack Developer
-### Erika Leonor Basurto Munguia
+## Erika Leonor Basurto Munguia
+### Full Stack Developer
 ![CV](CV.png)
