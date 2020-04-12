@@ -547,6 +547,18 @@ section {
   text-align: center;
   padding-bottom: 30px;
 }
+.section-title-paragraph {
+  text-align: justify;
+  padding-bottom: 30px;
+}
+.section-title-paragraph h2 {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  font-family: "Poppins", sans-serif;
+}
 
 .section-title h2 {
   font-size: 28px;
@@ -2184,4 +2196,7 @@ section {
   text-align: center;
   font-size: 13px;
   color: #fff;
+}
+.code{
+  color:blue
 }
