@@ -32,7 +32,7 @@ I am a developer with experience in creating technological solutions that optimi
 
 Here you can see [some projects](https://akirel.github.io/AkireL/portfolio.html).
 
-## Thank you for visiting my GitHub profile.! 🤩
+## Thank you for visiting my GitHub profile! 🤩
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Contribuye" width="200" />
 </div>
